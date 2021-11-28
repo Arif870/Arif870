@@ -41,6 +41,7 @@ I am friendly and helpful. If you Think that I am perfect for your project or co
 Thank you so much for reading my complete overview.
 
 Email: arifuzzaman959@gmail.com
+Linkdin: https://www.linkedin.com/in/arifuzzaman870/
 
 ✅ Looking forward to working with you.
 
