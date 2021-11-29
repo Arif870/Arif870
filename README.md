@@ -10,7 +10,7 @@ I am expert in Web design and Development.
 
 - PSD to Pixel perfect responsive Website design using React with material UI or React Bootstrap or React tailwind.
 
-- PSD, XD or Pigma file to Full-stack website development Conversion.
+- PSD, XD or figma file to Full-stack website development Conversion.
 
 - Hotel booking System by React.
 
@@ -41,7 +41,7 @@ I am friendly and helpful. If you Think that I am perfect for your project or co
 Thank you so much for reading my complete overview.
 
 Email: arifuzzaman959@gmail.com
-Linkdin: https://www.linkedin.com/in/arifuzzaman870/
+Linkedin: https://www.linkedin.com/in/arifuzzaman870/
 
 ✅ Looking forward to working with you.
 
